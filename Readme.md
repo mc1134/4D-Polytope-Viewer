@@ -4,6 +4,10 @@
 
 Many thanks to the aforementioned class and its instructors (Prof. Sam Buss and TAs Jonathan Conder and Nicholas Sieger) for providing much of the source code as well as teaching the class. Here is a [link](https://www.math.ucsd.edu/~sbuss/CourseWeb/Math155A_2019Winter/) to the class website.
 
+## Dependencies
+
+For now, this program relies on OpenGL (unknown version) and only works on Windows computers. I am currently working on a version of this that works on Macs and maybe Linux + iOS in the future.
+
 ## What the program does
 
 This program renders the six regular convex polytopes of the fourth dimension. The five regular convex <em>polyhedra</em> of the <em>third dimension</em> are known as the platonic solids: tetrahedron, cube/hexahedron, octahedron, dodecahedron, and icosahedron. For those of you who are familiar with 4-, 6-, 8-, 12-, and 20-sided dice, these are indeed the 3D shapes that have 4, 6, 8, 12, and 20 faces. The six regular convex polytopes are constructed out of multiple regular convex polyhedra. Here is a table of the six 4D polytopes:

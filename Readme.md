@@ -6,7 +6,7 @@ Many thanks to the aforementioned class and its instructors (Prof. Sam Buss and 
 
 ## Dependencies
 
-For now, this program relies on OpenGL (unknown version) and only works on Windows computers. I am currently working on a version of this that works on Macs and maybe Linux + iOS in the future.
+For now, this program relies on OpenGL (unknown version) and only works on Windows computers. I am currently working on a version of this that works on Macs (probably using Swift + Metal) and maybe Linux + mobile iOS in the future.
 
 ## What the program does
 
